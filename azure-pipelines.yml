@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@ashokkumardk 
-ashokkumardk
-/
-WebAppWithDatabaseDemo123
-Public
-Code
-Issues
-Pull requests
-Projects
-Wiki
-Security
-Insights
-Settings
-WebAppWithDatabaseDemo123/02_azure-pipelines-ci.yml
-@HoussemDellai
-HoussemDellai Update 02_azure-pipelines-ci.yml for Azure Pipelines
-Latest commit 4a7fe1f on Oct 3
- History
- 1 contributor
-139 lines (116 sloc)  3.45 KB
+
 
 trigger: 'none' # will disable CI builds entirely
 # - master
@@ -166,18 +139,3 @@ jobs:
       ArtifactName: arm
 
 
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-WebAppWithDatabaseDemo123/02_azure-pipelines-ci.yml at master · ashokkumardk/WebAppWithDatabaseDemo123
